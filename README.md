@@ -36,7 +36,7 @@ This project has several limitations. Gender was inferred from first names and m
 Because of these limitations, the findings should be interpreted as exploratory rather than proof of unequal pay.
 
 ## Files
-- `APS_salary_Code.ipynb`: Full Google Colab notebook
+- `APS_Salary_Analysis.ipynb`: Full Google Colab notebook
 - `aps_salary_final_dataset.csv`: Cleaned dataset
 - `overall_gender_salary_summary.csv`: Overall salary summary
 - `salary_gap_by_job_category.csv`: Salary gap by job category
